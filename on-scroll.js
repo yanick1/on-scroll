@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------
   @class OnScroll
   @classdesc Simple wrapper for the Intersection Observer API
-  @author Yan Jacob @3ejoueur
+  @author Yan Jacob
 --------------------------------------------------------------------------
 */
 
